@@ -31,6 +31,12 @@ p {
 	font-size: 21px;
 	}
 	
+footer {
+    display: block;
+}
+	
 #copyright {
 	text-align: right;
 	}
+	
+	
